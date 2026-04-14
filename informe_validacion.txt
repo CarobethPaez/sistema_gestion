@@ -1,0 +1,6 @@
+Caso de Prueba,Entrada de Usuario,Comportamiento Esperado,Resultado
+Dato no numérico en ID,"""abc""",Bloqueo por ValueError y mensaje de error.,Exitoso
+ID Negativo,-10,"Notificación de ""Número inválido"" y re-solicitud.",Exitoso
+Opción de menú inexistente,"""9""",Activación del bloque else (Opción no válida).,Exitoso
+
+
