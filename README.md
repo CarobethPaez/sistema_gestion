@@ -42,7 +42,7 @@ estructurado y legible.
 
 ⚙️ Instalación y Uso
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/CarobethPaez/sistema_gestion.git
 2. Navega a la carpeta del proyecto:
 cd nombre-del-proyecto
 3. Ejecuta la aplicación:
