@@ -42,7 +42,7 @@ estructurado y legible.
 
 ⚙️ Instalación y Uso
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/CarobethPaez/sistema_gestion.git
 2. Navega a la carpeta del proyecto:
 cd nombre-del-proyecto
 3. Ejecuta la aplicación:
@@ -50,7 +50,7 @@ python main.py
 
 📝 Desafíos y Aprendizaje
 El desarrollo de este sistema permitió aplicar conocimientos fundamentales de Python en un
-entorno de simulación profesional [cite: 150]. Los desafíos principales incluyeron la correcta
+entorno de simulación profesional. Los desafíos principales incluyeron la correcta
 modularización de archivos para mantener la limpieza del código y la implementación de
 validaciones que aseguren la estabilidad del software ante entradas inesperadas del usuario.
 
